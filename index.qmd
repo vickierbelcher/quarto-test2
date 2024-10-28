@@ -1,0 +1,15 @@
+---
+title: "Quarto Playground"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Test area I added this text
+Is it showing up?
+
+## Links
+* [Google](https://google.com)
+* [Quarto](https://quarto.com)
+
