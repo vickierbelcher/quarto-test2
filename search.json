@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Notes\nTest text is here now.\nSee Notes"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Playground",
@@ -11,13 +25,6 @@
     "href": "index.html#links",
     "title": "Quarto Playground",
     "section": "Links",
-    "text": "Links\n\nGoogle\nQuarto"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "Links\n\nGoogle\nQuarto\n\nSee Notes."
   }
 ]
