@@ -13,3 +13,4 @@ Is it showing up?
 * [Google](https://google.com)
 * [Quarto](https://quarto.com)
 
+See [Notes](notes.qmd).
